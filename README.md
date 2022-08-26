@@ -1,4 +1,4 @@
-# todo_app
+# Day 8 (Todo App Basics)
 
 A new Flutter project.
 
